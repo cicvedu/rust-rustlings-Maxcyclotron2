@@ -4,7 +4,7 @@
 //
 // Execute `rustlings hint clippy3` or use the `hint` watch subcommand for a hint.
 
-
+// I AM NOT DONE
 
 #[allow(unused_variables, unused_assignments)]
 fn main() {
@@ -20,7 +20,7 @@ fn main() {
     println!("My array! Here it is: {:?}", my_arr);
 
     let my_empty_vec: Vec<i32> = Vec::new();
-    println!("This Vec is empty, see? {:?}", my_empty_vec);
+    
 
     let mut value_a = 45;
     let mut value_b = 66;
